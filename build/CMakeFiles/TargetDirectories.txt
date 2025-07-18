@@ -1,0 +1,3 @@
+/home/lvxun/code/detect/OpencvCudaTest/build/CMakeFiles/test.dir
+/home/lvxun/code/detect/OpencvCudaTest/build/CMakeFiles/edit_cache.dir
+/home/lvxun/code/detect/OpencvCudaTest/build/CMakeFiles/rebuild_cache.dir
